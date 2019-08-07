@@ -26,3 +26,7 @@ then just coonect the 10 outputs from the 10 led segments to the arduino pins wh
 and you are ready to go ;)
 
 ![](images/67961786_481416559351361_2656689975566794752_n.jpg)
+
+YOU have to use a audio jack for the analog input and then usb cable  to power up the arduino 
+
+so you can simple put the audio jack to your phone or pc and see the wafe coming out the music :)
